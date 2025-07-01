@@ -6,6 +6,8 @@ Built with vs code, dotnet, avalonia and jesus christ.
 # THIS IS STILL WIP
 if there's some bugs post it under [Issues](https://github.com/oscoreggiato/Void-Launcher/issues) or write 2 me @osco_alt on discord or @ockahdhgcn on telegram
 
+![Image of the launcher](https://raw.githubusercontent.com/oscoreggiato/Void-Launcher/refs/heads/main/image.png)
+
 ### 🚨 LEGAL DISCLAIMER (READ THIS, YOU LAZY GREMLIN)
 #### THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL, EXPERIMENTAL, AND PERSONAL USE ONLY.
 CrackLauncherLite is NOT an official Minecraft launcher, NOT affiliated with Mojang, Microsoft, or any entity even remotely related to those suits. This tool is a third-party project built for research and software development learning purposes.
