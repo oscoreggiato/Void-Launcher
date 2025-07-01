@@ -4,7 +4,7 @@ void launcher bc it's light af, funny
 Built with vs code, dotnet, avalonia and jesus christ.
 
 # THIS IS STILL WIP
-if there's some bugs write 2 me @osco_alt on discord or @ockahdhgcn on telegram
+if there's some bugs post it under [Issues](https://github.com/oscoreggiato/Void-Launcher/issues) or write 2 me @osco_alt on discord or @ockahdhgcn on telegram
 
 ### 🚨 LEGAL DISCLAIMER (READ THIS, YOU LAZY GREMLIN)
 #### THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL, EXPERIMENTAL, AND PERSONAL USE ONLY.
